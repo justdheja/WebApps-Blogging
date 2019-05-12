@@ -1,6 +1,5 @@
 <?php
-    include "data.php";
-    include "connect.php";
+    include "content_data.php";
     // echo "<pre>";
     // var_dump($content);
     // echo "<pre>";
